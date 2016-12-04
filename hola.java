@@ -4,6 +4,8 @@ public class hola
 	{
 		System.out.println("Hola Mundo cruel!!!");
 		System.out.println(": ) ");
+		System.out.println(" ...");
+
 	}
 
 }
